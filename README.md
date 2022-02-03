@@ -1,12 +1,12 @@
 ### Olá 👋
 
-#### Em constante aprendizado como Front-End Developer 🚧
+#### Em constante aprendizado 🚧
 
 - ⚙️ Diariamente costumo usar: `.py`, `.js`, `.html`, `.css`, `.psd`
 - 🌍 Não costumo ser ativo aqui, mas pretendo mudar isso.
 - 🌱 Procurando aprender com trabalhos **Open Source**
 - 🎶 Você pode escutar o mesmo trash que eu nas minhas [Playlists](https://open.spotify.com/user/hguelekyu8h73auyd1jgl2n7d)
-- ⚡️ Um fato: Sou viciado em Call of Cthulhu
+- ⚡️ Um fato: Sou viciado em call of cthulhu
 <div align="center">
   <a href="https://github.com/matheusbruz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusbruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
