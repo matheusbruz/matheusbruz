@@ -13,8 +13,6 @@
 - ⚡️ Um fato: Sou viciado em call of cthulhu
 <div align="center">
   <a href="https://github.com/matheusbruz">
-  <img src="https://img.shields.io:/twitter/follow/callmebruzk?style=social" alt="twitter followers" /><br>
-    <br>
     <img src="https://github-readme-stats.vercel.app/api?username=matheusbruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Matheus" />
 </div>
 <div style="display: inline_block"><br>
